@@ -1,4 +1,4 @@
-## Howdy! I'm Lorenna, but also go by loreslei 👋🏻
+## 👋🏻 Howdy! I'm Lorenna, but also go by loreslei 
  <img height= "180px" src="https://github-readme-stats.vercel.app/api?username=loreslei&show_icons=true&theme=jolly"/> <img height= "180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loreslei&layout=donut&theme=jolly"/>
 ##
 <div style="display: inline_block"><br>
