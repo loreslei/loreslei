@@ -8,7 +8,7 @@
   <img align="center" alt="Lore-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lore-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lore-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="right" alt="Lore-Blink" src="https://discord.com/channels/@me/990437283176022046/1264732335085977700/gifmaker_me.gif">
+  <img align="right" alt="Lore-Blink" src="https://cdn.discordapp.com/attachments/1264733574788022407/1264733617612132443/gifmaker_me.gif?ex=669ef278&is=669da0f8&hm=e0bd30341344f90b551ab00009ae24deb42512001da6276ccd2d222bfdcdb829&">
   
 </div>
   
