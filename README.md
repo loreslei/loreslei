@@ -1,5 +1,15 @@
-## 🤠 Howdy! I'm Lorenna, but also go by loreslei 
- <img height= "180px" src="https://github-readme-stats.vercel.app/api?username=loreslei&show_icons=true&theme=jolly"/> <img height= "180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loreslei&layout=donut&theme=jolly"/>
+
+<div align = "center">
+<h2>🤠 Howdy! I'm Lorenna, but also go by loreslei
+</div>
+
+
+
+<div align = "center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=loreslei&show_icons=true&theme=jolly&border_radius=20px"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loreslei&layout=donut&theme=jolly&border_radius=20px"/>
+</div>
+
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Lore-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
