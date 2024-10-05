@@ -1,4 +1,4 @@
-
+<img src="https://discord.com/channels/1264733574788022404/1264733574788022407/1291920060344041495">
 <div align = "center">
 <h2>🤠 Howdy! I'm Lorenna, but also go by loreslei
 </div>
