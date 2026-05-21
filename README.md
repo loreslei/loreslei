@@ -69,6 +69,10 @@ me.say_hi()
 
 *"First, solve the problem. Then, write the code."* — John Johnson
 
-![Snake animation](https://github.com/loreslei/loreslei/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/loreslei/loreslei/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/loreslei/loreslei/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/loreslei/loreslei/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
