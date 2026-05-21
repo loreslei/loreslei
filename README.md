@@ -4,12 +4,6 @@
 </div>
 
 
-
-<div align = "center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=loreslei&show_icons=true&theme=jolly&border_radius=20px"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loreslei&layout=donut&theme=jolly&border_radius=20px"/>
-</div>
-
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Lore-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
